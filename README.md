@@ -1,6 +1,6 @@
 # Online-Advertising-Platform
 
-This repository contains the implementation of an Ad Campaign Management System, which consists of various components for managing ad campaigns, displaying ads to users, collecting feedback, and generating bill reports.
+This repository contains the implementation of an Online-Advertising-Platform, which consists of various components for managing ad campaigns, displaying ads to users, collecting feedback, and generating bill reports.
 
 ## Components
 
